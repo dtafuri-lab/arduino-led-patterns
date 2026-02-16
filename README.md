@@ -37,7 +37,3 @@ Connect each LED: Pin → LED → Resistor → Ground
 - Change `delay()` values for different speeds
 - Comment/uncomment patterns in `loop()`
 - Add new patterns by creating `blink_X()` functions
-
----
-
-**2342 lines of Arduino art ✨**
